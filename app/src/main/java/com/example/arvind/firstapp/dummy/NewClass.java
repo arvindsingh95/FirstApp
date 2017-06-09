@@ -12,5 +12,7 @@ public class NewClass extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        int i = 2;
     }
 }
