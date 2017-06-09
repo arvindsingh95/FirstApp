@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(view);
                 
                 String string = getResources().getString(R.string.app_name);
+                String string2 = "Second String";
 
             }
         });
